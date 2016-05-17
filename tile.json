@@ -3,7 +3,7 @@
 		"type": "url",
 		"text" : "this is a sample action text",
 		"link": "www.google.com",
-		"altImage" : "this is alt text"
+		"description" : "this is alt text"
 	},
 	"video" : "http://www.myfico.com/Images/sample_overlay.gif",
 	"image" : "http://www.myfico.com/Images/sample_overlay.gif",
